@@ -122,4 +122,16 @@ header {
     .collage img {
         max-width: 120px;
     }
+
+    .slide1 .item {
+        width: 160px;
+    }
+
+    .text h2 {
+        font-size: 1.3rem;
+    }
+
+    .text p {
+        font-size: 1rem;
+    }
 }
