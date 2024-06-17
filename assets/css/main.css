@@ -164,18 +164,18 @@
 
 @media (max-width: 480px) {
     nav ul li a {
-        font-size: 16px;
+        font-size: 1rem;
     }
 
     .grid h1 {
-        font-size: 24px;
+        font-size: 1.5rem;
     }
 
     #Hexa h1 {
-        font-size: 36px;
+        font-size: 2rem;
     }
 
     .button a {
-        font-size: 16px;
+        font-size: 1rem;
     }
 }
