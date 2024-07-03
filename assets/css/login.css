@@ -13,7 +13,7 @@ body {
     background-color: #fff;
     width: 20rem;
     height: 24rem;
-    padding: 40px;
+    padding: 2rem  1.5rem 2.5rem 1.5rem;
     margin: 50px auto;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -74,7 +74,8 @@ button:hover {
 @media (max-width: 768px) {
     .login-form{
         width: 17rem;
-        height: 21rem;
+        height: 22.5rem;
+        padding: 0.5rem 1.5rem;
     }
 
     .login-form h2 {
